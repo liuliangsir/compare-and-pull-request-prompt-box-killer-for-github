@@ -2,7 +2,7 @@
   "name": "Compare And Pull Request Prompt Box Killer For Github",
   "description": "Automatically hides the \"Compare & pull request\" prompt box on GitHub repository pages",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "scripts": {
     "dev": "wxt",
