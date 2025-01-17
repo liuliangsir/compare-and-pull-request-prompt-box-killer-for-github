@@ -1,4 +1,4 @@
-# Compare and Pull Request Killer for GitHub
+# Compare and Pull Request Prompt Box Killer for GitHub
 
 A simple Chrome extension that hides the "Compare & pull request" prompt box on GitHub repository pages.
 
